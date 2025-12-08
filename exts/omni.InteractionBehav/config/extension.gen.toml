@@ -1,0 +1,21 @@
+
+[package]
+    archivePath = "https://d4i3qtqj3r0z5.cloudfront.net/omni.usd.metrics.assembler.ui-108.0.0%2B108.0.0.cp312.u81f.zip"
+
+    [package.target]
+
+        [package.target.python]
+            0 = "cp312"
+
+        [package.target.usd]
+            0 = "u81f8+stock+25.02+cxx11"
+
+        [package.target.kit]
+            0 = "108.0.0"
+
+    [package.publish]
+        kitVersion = "108.0.0+mr38033.200801.9cc3f1c8.gl"
+        date = 1759988021
+        buildNumber = "108.0.0+release.118.4d086386.gl"
+        repoName = "omni.VisonTuner"
+        signed = 1
